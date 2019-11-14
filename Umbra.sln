@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Umbra", "Umbra\Umbra.vcxproj", "{86FD7BBE-DCDF-4D53-85C2-B01DA430D14A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{61CC1277-C7FD-464A-B9E2-BA4343196032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86FD7BBE-DCDF-4D53-85C2-B01DA430D14A}.Debug|x64.ActiveCfg = Debug|x64
+		{86FD7BBE-DCDF-4D53-85C2-B01DA430D14A}.Debug|x64.Build.0 = Debug|x64
+		{86FD7BBE-DCDF-4D53-85C2-B01DA430D14A}.Release|x64.ActiveCfg = Release|x64
+		{86FD7BBE-DCDF-4D53-85C2-B01DA430D14A}.Release|x64.Build.0 = Release|x64
+		{61CC1277-C7FD-464A-B9E2-BA4343196032}.Debug|x64.ActiveCfg = Debug|x64
+		{61CC1277-C7FD-464A-B9E2-BA4343196032}.Debug|x64.Build.0 = Debug|x64
+		{61CC1277-C7FD-464A-B9E2-BA4343196032}.Release|x64.ActiveCfg = Release|x64
+		{61CC1277-C7FD-464A-B9E2-BA4343196032}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA269FB6-847E-434F-B16F-9EC4A8AE3145}
+	EndGlobalSection
+EndGlobal
